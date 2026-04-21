@@ -3,17 +3,17 @@ export const data = {
         L: {
             id: 1,
             name: 'Firmansyah',
-            child: 'Putra ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            child: 'Putra ke 4',
+            father: 'Ilham Rahman',
+            mother: 'Siti Hajar',
             image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
             name: 'Husaini',
-            child: 'Putri ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            child: 'Putri ke 2',
+            father: 'Husen',
+            mother: 'Hasanah',
             image: './src/assets/images/cewe.png'
         },
 
