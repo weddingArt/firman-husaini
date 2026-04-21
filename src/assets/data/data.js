@@ -41,7 +41,7 @@ export const data = {
                 finish: 'Selesai'
             }
         },
-        address: 'Bd.Yehbiu, RT 000/ RW 000, Desa.Patas, Kec.Gerokgak, Kab.Buleleng, Bali (81155)'
+        address: 'Bd.Yehbiu, Desa.Patas, Kec.Gerokgak, Kab.Buleleng, Bali (81155)'
     },
 
     link: {
